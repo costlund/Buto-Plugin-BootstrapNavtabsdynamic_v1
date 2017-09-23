@@ -5,8 +5,8 @@ class PluginBootstrapNavtabsdynamic_v1{
    <p>Widget to include javascript.</p>
    <p>Include js and widget then use with javascript.</p>
   #code-javascript#
-  PluginBootstrapNavtabsdynamic_v1.newTab('myTabs', 'New tab', '/doc/a_page');
-  PluginBootstrapNavtabsdynamic_v1.closeActiveTab('myTabs');
+  PluginBootstrapNavtabsdynamic_v1.newTab('my_tabs', 'New tab', '/doc/a_page');
+  PluginBootstrapNavtabsdynamic_v1.closeActiveTab('my_tabs');
   #code#
    * 
    * 
