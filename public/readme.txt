@@ -1,0 +1,1 @@
+This folder has to be linked or copied to public part of Buto.
